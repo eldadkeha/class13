@@ -44,3 +44,20 @@ TermSocket.open: Opened 1
 [I 18:34:18.852 NotebookApp] Saving file at /Untitled.ipynb
 [I 18:36:19.090 NotebookApp] Saving file at /Untitled.ipynb
 [I 18:36:28.107 NotebookApp] Saving file at /requirements.txt
+[W 18:48:19.644 NotebookApp] Culling 'idle' kernel 'python3' (5e0b96de-f00b-44bd-9d1e-798e54c8a1c8) with 2 connections due to 600 seconds of inactivity.
+[I 18:48:19.645 NotebookApp] Kernel shutdown: 5e0b96de-f00b-44bd-9d1e-798e54c8a1c8
+[I 18:58:44.818 NotebookApp] Creating new notebook in 
+[I 18:58:46.253 NotebookApp] Kernel started: 3cd20127-dc2f-4e91-b28e-543d948dbe82, name: python3
+[I 19:00:46.020 NotebookApp] Saving file at /G2.ipynb
+[I 19:02:50.632 NotebookApp] Uploading file to /data3.csv
+[I 19:02:56.611 NotebookApp] Uploading file to /data4.csv
+[I 19:03:48.236 NotebookApp] Uploading file to /Basketball Final.ipynb
+[W 19:03:52.395 NotebookApp] Notebook Basketball Final.ipynb is not trusted
+[I 19:03:53.299 NotebookApp] Kernel started: f07cc3c4-88e7-49f3-a8fc-d648f55a0246, name: python3
+[I 19:04:22.744 NotebookApp] Uploading file to /BasketballWithAlpha.ipynb
+[W 19:04:29.834 NotebookApp] Notebook BasketballWithAlpha.ipynb is not trusted
+[I 19:04:30.612 NotebookApp] Kernel started: 182ae11a-766a-4975-8475-101858f74be3, name: python3
+[I 19:04:46.274 NotebookApp] Saving file at /G2.ipynb
+[I 19:05:04.471 NotebookApp] Uploading file to /PopSD.ipynb
+[W 19:05:08.274 NotebookApp] Notebook PopSD.ipynb is not trusted
+[I 19:05:09.377 NotebookApp] Kernel started: 0ecfa934-c6d3-477e-b765-c5be845c2bc6, name: python3
